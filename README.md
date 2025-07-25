@@ -1,6 +1,6 @@
 # Hospital-Patient-Analysis-PostgreSQL-Metabase
 This project analyzes a simulated hospital EHR dataset from Maven Analytics containing 27,891 patient encounters. Using SQL and Metabase, key insights were uncovered across patient demographics, visit types, reasons for visits, claim costs, and payer coverage. The analysis highlights trends in healthcare utilization, average encounters per patient, insurance impact, provider workload, and seasonal patterns in hospital visits—offering a comprehensive view of hospital operations and patient behavior.
-## Project Link:
+
 ### Analysis Summary
 - KPIs: Total encounters, unique patient, encounter cost, Insurance Covergae (%)
 - Encounter Class Wise Frequencr and Patient Count
